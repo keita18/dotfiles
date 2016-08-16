@@ -3,6 +3,8 @@
 " <C-a>と<C-A>は同じだが、<M-a>と<M-A>は違う。<M-A>は<Shift-M-a>ということ。
 " まぎらわしいので、小文字でいいものは小文字で書く。
 "
+" test
+"
 " OS固有設定
 if has('mac')
 	set macmeta 
